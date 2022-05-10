@@ -16,4 +16,10 @@ public void createlead(){
 }
 
 
+@Test
+public void createlead123(){
+	System.out.println("Lead is created");
+}
+
+
 }
