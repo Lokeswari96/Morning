@@ -6,5 +6,14 @@ public class CreateCampaignTest {
 @Test
 public void Createcam(){
 	System.out.println("Campaign is Created");
+	
+	
+	
+	
+	
+	
+	
+	
+	System.out.println("Hiiii");
 }
 }
