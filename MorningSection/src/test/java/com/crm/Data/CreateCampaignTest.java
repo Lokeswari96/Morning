@@ -9,13 +9,7 @@ public void Createcam(){
 	System.out.println("Hiiii");
 	System.out.println("Hiiii");
 	System.out.println("Hiiii");
-	
-	
-	
-	
-	
-	
-	
+
 	
 }
 }

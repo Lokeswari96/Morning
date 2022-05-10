@@ -13,5 +13,10 @@ public void createlead(){
 	System.out.println("Lead is created");
 }
 
+@Test
+public void RajTest1234() {
+	System.out.println("sendRequest");
+}
+
 
 }
