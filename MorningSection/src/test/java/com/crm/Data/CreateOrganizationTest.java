@@ -7,6 +7,8 @@ public class CreateOrganizationTest {
 public void CreateOrg(){
 	System.out.println("Organization is created");
 	}
+	
+	
 
 @Test
 public void createlead(){
