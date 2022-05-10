@@ -21,4 +21,10 @@ public void RajTest1234() {
 }
 
 
+@Test
+public void createlead123(){
+	System.out.println("Lead is created");
+}
+
+
 }
